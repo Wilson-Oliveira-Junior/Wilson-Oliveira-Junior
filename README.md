@@ -21,6 +21,10 @@
 </div>
 
 <div>
-  ![Wilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilson-Oliveira-Junior&show_icons=true&theme=transparent)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+<a href="https://github.com/Wilson-Oliveira-Junior/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Wilson-Oliveira-Junior" />
+</a>
+<a href="https://github.com/Wilson-Oliveira-Junior/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wilson-Oliveira-Junior&layout=compact&langs_count=8&card_width=320" />
+</a>
 </div>
