@@ -21,10 +21,10 @@
 </div>
 
 <div>
-<a href="https://github.com/Wilson-Oliveira-Junior/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Wilson-Oliveira-Junior" />
+  <a href="https://github-readme-stats.vercel.app/api?username=Wilson-Oliveira-Junior&show_icons=true&theme=transparent">
+  <img height=200 align="center" bg_color=00000000 src="https://github-readme-stats.vercel.app/api?username=Wilson-Oliveira-Junior&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/Wilson-Oliveira-Junior/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wilson-Oliveira-Junior&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wilson-Oliveira-Junior&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 </div>
