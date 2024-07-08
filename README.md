@@ -28,3 +28,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wilson-Oliveira-Junior&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Wilson&theme=dark&border_radius=5&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500&card_height=200)](https://git.io/streak-stats)
