@@ -28,6 +28,4 @@
 ---
 
 ## 📊 GitHub Stats
-<div>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Wilson-Oliveira-Junior&theme=rising-sun&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat&card_width=500&card_height=200)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Wilson-Oliveira-Junior&theme=rising-sun&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat&card_width=500&card_height=200)](https://git.io/streak-stats)
