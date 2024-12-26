@@ -29,12 +29,8 @@
 
 ## 📊 GitHub Stats
 <div>
-  <a href="https://github-readme-stats.vercel.app/api?username=Wilson-Oliveira-Junior&show_icons=true&theme=transparent">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Wilson-Oliveira-Junior&show_icons=true&theme=transparent" alt="GitHub Stats" />
-  </a>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Wilson-Oliveira-Junior&theme=rising-sun&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat&card_width=500&card_height=200)](https://git.io/streak-stats)
   <a href="https://github.com/Wilson-Oliveira-Junior/convoychat">
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wilson-Oliveira-Junior&layout=compact&langs_count=8&theme=transparent" alt="Top Languages" />
   </a>
 </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Wilson-Oliveira-Junior&theme=rising-sun&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat&card_width=500&card_height=200)](https://git.io/streak-stats)
