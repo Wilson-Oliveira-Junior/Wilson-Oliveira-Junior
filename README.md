@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Wilson-coder-fullstack
+# 👋 Hi, I’m @Wilson
 - 👀 I’m interested in **Software Development**
 - 📫 How to reach me: **[wilsono.junior@outlook.com](mailto:wilsono.junior@outlook.com)**
 
